@@ -1,3 +1,4 @@
+package br.com.bytebank.banco.modelo;
 /**
  * 
  * @author Rodolfo
